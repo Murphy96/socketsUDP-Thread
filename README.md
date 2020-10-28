@@ -1,4 +1,4 @@
-# socketsUDP-con-Thread
+# SocketsUDP-con-Thread
 
 Implementacion sencilla usando sockets udp en java junto con la implementacion de hilos (Thread).
 En esta implementacion desplegamos un menu, donde verificamos si, es un primo, si es palindrome o el mayor de 3 numeros.
